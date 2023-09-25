@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## Versione alpha-1.2.0 - [25/09/2023]
+
+### Modificato
+- Il colore di un paragrafo adesso è: "non controllato" = bianco, "controllato" = verde, "non finito" = giallo, "contiene non conformità" = rosso 
+
+### Aggiunto
+- Aggiunto il bottone "Scegli relazione di audit" per scegliere manualmente la relazione di audit nel pannello finale
+
 ## Versione alpha-1.1.0 - [22/09/2023]
 
 ### Corretto
