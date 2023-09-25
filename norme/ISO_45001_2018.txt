@@ -28,7 +28,7 @@ Paragrafo 7: SUPPORTO
 7.4.3: Comunicazione esterna
 7.5: Informazioni documentate
 /
-Paragrafo 8: PIANIFICAZIONE E CONTROLLO OPERATIVI
+Paragrafo 8: ATTIVITA' OPERATIVE
 8.1.1: Generalità
 8.1.2: Eliminazione dei pericoli e riduzione dei rischi per la SSL
 8.1.3: Gestione del cambiamento

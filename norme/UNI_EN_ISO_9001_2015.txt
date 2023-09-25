@@ -21,7 +21,7 @@ Paragrafo 7: SUPPORTO
 7.4: Comunicazione
 7.5: Informazioni documentate
 /
-Paragrafo 8: ATTIVITÀ FORMATIVE
+Paragrafo 8: ATTIVITÀ OPERATIVE
 8.1: Pianificazione e controlli operativi
 8.2: Requisiti per i prodotti e i servizi
 8.3: Progettazione e sviluppo di prodotti e servizi
