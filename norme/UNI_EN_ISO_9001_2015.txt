@@ -28,7 +28,7 @@ Paragrafo 8: ATTIVITÀ OPERATIVE
 8.4: Controllo dei processi, prodotti e servizi forniti dall'esterno
 8.5: Produzione ed erogazione dei servizi
 8.6: Rilascio di prodotti e servizi 
-8.8: Controllo degli output non conformi 
+8.7: Controllo degli output non conformi 
 /
 Paragrafo 9: VALUTAZIONE DELLE PRESTAZIONI
 9.1: Monitoraggio, misurazione, analisi e valutazione
