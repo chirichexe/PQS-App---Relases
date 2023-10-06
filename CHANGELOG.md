@@ -2,18 +2,24 @@
 
 ## Versione alpha-1.3.0 - [06/10/2023]
 
-### Corretto
-- Corretta l'impostazione del paragrafo Non Completato con una non conformità (diventa VERDE o ROSSO solo e solamente quando tutti i sottoparagrafi sono stati controllati)
-- Invertito l'ordine di conclusioni e lista distribuzione nella generazione di una r. audit
-
-### Modificato
-- L'area di testo per inserire le Note é stata estesa
-- I bottoni, se cliccati, cambiano colore. Quindi é più facile controllare quando il programma sta eseguendo azioni o é fermo
-
 ### Aggiunto
 - Aggiunto il bottone "Stampa Pdf" per generare il pdf di tutto l'audit (quindi con non conformità e relazione di audit unite insieme)
 - Aggiunta la gestione di Funzione valutata (legata a un Paragrafo, non so perché a volte al primo paragrafo fa degli errori, va testata)
 - Il N. report selezionato all'inizio ora viene mostrato in fase di generazione della relazione di audit
+  
+### Corretto
+- Corretta l'impostazione del paragrafo "Non Completato" (giallo) con una non conformità (diventa VERDE o ROSSO solo e solamente quando tutti i sottoparagrafi sono stati controllati, mentre prima diventava rosso anche con una sola non conformità selezionata)
+- Invertito l'ordine di Conclusioni e Lista distribuzione nella generazione di una r. audit
+
+### Modificato
+- Ho leggermente modificato il funzionamento nella parte finale. Si veda il video inviato su Whatsapp.
+- L'area di testo per inserire le note e tutti i campi della relazione di audit sono state estese (Da testare sul pc aziendale)
+- I bottoni, se cliccati, cambiano colore. Quindi é più facile controllare quando il programma sta eseguendo azioni o é fermo
+
+### Non Implementato (Rispetto alla RAC Agorà del 27 settembre 2023)
+- La scelta dell campo "soluzione soddisfacente/insoddisfacente" in un rapporto di n.c. (Tramite una chiamata vorrei chiederle alcuni chiarimenti)
+- Non sono possibili Taglia/Copia e Incolla di testi nell'applicazione senza l'uso di CTRL+C e CTRL+V e non è possibile inserire campi in grassetto o corsivo, in quanto sono funzionalità offerte unicamente da "Microsoft Office Word" e l'implementazione sarebbe troppo complicata ed inutile vista la "provvisorietà" del software. Per ora si può ovviare scrivendo il contenuto tramite l'app ed evidenziandolo in grassetto nel riepilogo
+- Non è ancora presente un bottone per invertire funzioni e collaboratori. L'implementazione sarebbe troppo complessa, il tutto può essere ovviato tramite un controllo fatto alla checklist il giorno prima dell'audit invertendo manualmente i dati (in modo da correggere manualmente eventuali errori di formattazione e "preparare" i dati per la loro immissione nel futuro database).
 
 ## Versione alpha-1.2.0 - [25/09/2023]
 
