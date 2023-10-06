@@ -7,7 +7,8 @@
 - Invertito l'ordine di conclusioni e lista distribuzione nella generazione di una r. audit
 
 ### Modificato
-- I bottoni cliccati cambiano colore. Quindi é più facile controllare quando il programma sta eseguendo azioni o é fermo
+- L'area di testo per inserire le Note é stata estesa
+- I bottoni, se cliccati, cambiano colore. Quindi é più facile controllare quando il programma sta eseguendo azioni o é fermo
 
 ### Aggiunto
 - Aggiunto il bottone "Stampa Pdf" per generare il pdf di tutto l'audit (quindi con non conformità e relazione di audit unite insieme)
@@ -17,7 +18,8 @@
 ## Versione alpha-1.2.0 - [25/09/2023]
 
 ### Modificato
-- Il colore di un paragrafo adesso è: "non controllato" = bianco, "controllato" = verde, "non finito" = giallo, "contiene non conformità" = rosso 
+- Il colore di un paragrafo adesso è: "non controllato" = bianco, "controllato" = verde, "non finito" = giallo, "contiene non conformità" = rosso
+- Il riepilogativo ora segue le Cartelle e non un file txt
 
 ### Aggiunto
 - Aggiunto il bottone "Scegli relazione di audit" per scegliere manualmente la relazione di audit nel pannello finale
