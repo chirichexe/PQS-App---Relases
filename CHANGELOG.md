@@ -3,7 +3,7 @@
 ## Versione alpha-1.3.0 - [06/10/2023]
 
 ### Corretto
-- Corretta l'impostazione del paragrafo Non Completato con una non conformità
+- Corretta l'impostazione del paragrafo Non Completato con una non conformità (diventa VERDE o ROSSO solo e solamente quando tutti i sottoparagrafi sono stati controllati)
 - Invertito l'ordine di conclusioni e lista distribuzione nella generazione di una r. audit
 
 ### Modificato
