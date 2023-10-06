@@ -1,5 +1,19 @@
 # CHANGELOG
 
+## Versione alpha-1.3.0 - [06/10/2023]
+
+### Corretto
+- Corretta l'impostazione del paragrafo Non Completato con una non conformità
+- Invertito l'ordine di conclusioni e lista distribuzione nella generazione di una r. audit
+
+### Modificato
+- I bottoni cliccati cambiano colore. Quindi é più facile controllare quando il programma sta eseguendo azioni o é fermo
+
+### Aggiunto
+- Aggiunto il bottone "Stampa Pdf" per generare il pdf di tutto l'audit (quindi con non conformità e relazione di audit unite insieme)
+- Aggiunta la gestione di Funzione valutata (legata a un Paragrafo, non so perché a volte al primo paragrafo fa degli errori, va testata)
+- Il N. report selezionato all'inizio ora viene mostrato in fase di generazione della relazione di audit
+
 ## Versione alpha-1.2.0 - [25/09/2023]
 
 ### Modificato
