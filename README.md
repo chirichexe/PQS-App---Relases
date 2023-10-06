@@ -34,7 +34,7 @@ Appena tutti i paragrafi hanno un colore si piò passare alla terza sezione
 #### 3. Relazione di audit:
 -Viene visualizzato un resoconto di tutte le non conformità a sinistra. Tramite un pulsante verranno poi aperti tutti i rispettivi documenti word (Dove andrà cambiato il numero del rapporto in base al totale delle non conformità generate).
 - Dopo aver chiuso tutte i documenti word delle non conformità è possibile scrivere una relazione di audit partendo da quella precedente (se il programma non riuscità a trovarla, chiederà di selezionarla manualmente)
-- Dopo aver salvato tutto verrà chiusa la pratica e sarà possibile inviare una mail (!! ATTENZIO E)
+- Dopo aver salvato tutto verrà chiusa la pratica e sarà possibile salvare il pdf della relazione di audit e dei rapporti di non conformità, che sarà possibile inviare via mail tramite apposito pulsante (!! NON ANCORA IMPLEMENTATO !!)
  
 ## Installazione
 Basta scaricare i file e inserirli in una cartella a scelta. Poi andrà eventualmente scelto il path della "piazzetta" che verrà ricordato dal programma.
