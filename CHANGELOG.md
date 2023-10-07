@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## Versione beta-1.0.0 - [07/10/2023]
+
+### Corretto
+- Nella Lista distribuzione verrà rimossa la parola "ALLE" che veniva mostrata per errore
+- Nella sezione "Estensione" la data viene cambiata automatcamente 
+### Bug Presenti
+- I campi nella relazione di audit a volte sono incompleti, bisogna ancora correggerli manualmente
+
 ## Versione alpha-1.3.0 - [06/10/2023]
 
 ### Aggiunto
