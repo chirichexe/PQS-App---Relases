@@ -1,10 +1,21 @@
 # CHANGELOG
 
+## Versione beta-1.2.0 - [12/10/2023]
+
+### Corretto
+- Modificato il template per la relazione di audit
+- Risolto il bug nell'apertura della relazione di audit precedente (Cambiato il nome del pdf finale in Relazione_A.I. ... )
+
+## Versione beta-1.1.0 - [9/10/2023]
+
+### Corretto
+- C0rrezione piccoli bug interni
+
 ## Versione beta-1.0.0 - [07/10/2023]
 
 ### Corretto
 - Nella Lista distribuzione verrà rimossa la parola "ALLE" che veniva mostrata per errore
-- Nella sezione "Estensione" la data viene cambiata automatcamente 
+- Nella sezione "Estensione" la data viene cambiata automaticamente 
 ### Bug Presenti
 - I campi nella relazione di audit a volte sono incompleti, bisogna ancora correggerli manualmente
 
