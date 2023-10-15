@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## Versione beta-1.3.0 - [16/10/2023]
+
+### Corretto
+- Sistemazioni grafiche (priorità alla sezione "note", non si sovrappongono più alcuni campi di testo)
+- Test: il bug si era ripresentato. Nota Bene: quando va scelta la relazione di audit va scelto il file .DOCX, non .PDF. Probabilmente l'errore era dovuto a quello, ma va testato
+
 ## Versione beta-1.2.0 - [12/10/2023]
 
 ### Corretto
