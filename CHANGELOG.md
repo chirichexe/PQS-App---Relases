@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## Versione beta-1.4.1 - [16/10/2023]
+
+### Aggiunto
+- Aggiunto limite caratteri a 255 nella generazione di una relazione di audit
+
 ## Versione beta-1.3.0 - [16/10/2023]
 
 ### Corretto
