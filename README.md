@@ -11,6 +11,7 @@ Per la sezione checklist è fondamentale che ogni cartella abbia una struttura d
 
 AZIENDA - NORMA DI RIFERIMENTO - ANNO (2023 ad es.) - PQS - DATA (formato "gg mm aaaa" ad es. 10/11/2023) - CHECKLIST / Relazione audit
 Nel caso in cui questi vincoli non venissero rispettati è bene scegliere un'azienda e selezionare una checklist di partenza "a mano". Poi, dopo averci lavorato, con "Salva" il programma creerà in automatico un percorso "standard". Nel caso l'app (dopo almeno un salvataggio avvenuto tramite il programma) al riavvio non riconoscesse ancora la checklist creata come "ultima checklist", è opportuno eliminare la cartella riconosciuta come "ultima checklist" dal programma, ricordandosi di spostare l'eventuale relazione di audit precedente nella nuova cartella creata dal programma. In ogni caso, sono disponibile per ogni tipo di chiarimento.
+Questa scelta progettuale é stata fatta per allineare le esigenze dell'applicazione con la attuale struttura aziendale in mancanza di un database ufficiale.
 
 ### Sezione Checklist:
 #### 1. Pagina informazioni:
